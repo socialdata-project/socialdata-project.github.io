@@ -18,7 +18,7 @@ A study on suicide rates was conducted with data from the [Institute for Health 
 An initial data analysis showed a declining trend throughout the years in all World Health Organization regions, although in different proportions. In Europe, for instance, this decrease is significantly faster than in the rest of the regions, followed by Africa, that is also experiencing a rapid reduction of suicide, even if it remains the region with the highest rate. In the following line chart, you can visualize these patterns and see every region's average rate of suicides per year:
 
 <p align="center">
-  <img src="/../figures/f2.png" alt="Evolution per region" height="300">
+  <img src="/../figures/f2.PNG" alt="Evolution per region" height="300">
 </p>
 
 Despite these differences, what all regions have in common is the fact that men commit suicide much more than women. In fact, in average, the rate for males is around 4 times that of women. What is more, when visualizing the male suicide rate against the female suicide rate per country we can see very clearly that the points conglomerate above the diagonal line that indicates a 1:1 ratio, showing that this rate is constantly higher in men:
@@ -44,7 +44,7 @@ On the other hand, when looking deeper, one can see that there is only one count
 A further analysis was done inspired by a [UN article](https://news.un.org/en/story/2022/07/1121852) that explains how women in Afghanistan are commiting more suicide because of gender inequality. In this context, a possible explanation for an increase in suicide in Aghani women around the age of 40 can be domestic violence. In this additional study, data of gender violence from the [Organisation for Economic Co-operation and Development (OECD)](https://data.oecd.org/inequality/violence-against-women.htm) was used to compare an index of violence with the female to male suicide ratio.
 
 <p align="center">
-  <img src="/../figures/f5.png" alt="Correlations" height="350">
+  <img src="/../figures/f5.PNG" alt="Correlations" height="350">
 </p>
 
 Indeed, a correlation was found between this violence index and the women-men suicide ratio for all countries in the world. This was also calculated by world region, being also correlated in the Eastern Mediterranean region while in regions like Europe there was no correlation. Therefore, the lower difference between male and female suicides in the Eastern Mediterranean region can be attributed to factors such as gender inequality and gender violence, which imply that women are committing more suicide, rather than men commiting less. 
