@@ -10,7 +10,7 @@ A study on suicide rates was conducted with data from the [Institute for Health 
 
 <embed
        type="text/html" 
-       src="/../figures/f1.html"
+       src="/../figures/f1 (1).html"
        width="800"
        height="600"
        >
@@ -25,7 +25,7 @@ Despite these differences, what all regions have in common is the fact that men 
 
 <embed
        type="text/html" 
-       src="/../figures/f3.html"
+       src="/../figures/f3 (1).html"
        width="650"
        height="400"
        >
@@ -36,7 +36,7 @@ On the other hand, when looking deeper, one can see that there is only one count
 
 <embed
        type="text/html" 
-       src="/../figures/f4.html"
+       src="/../figures/f4 (1).html"
        width="700"
        height="500"
        >
